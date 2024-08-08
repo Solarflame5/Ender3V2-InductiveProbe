@@ -1,0 +1,9 @@
+Configurations generator script for the Professional Firmware
+Author: Miguel A. Risco Castillo (c) 2022
+
+-Process EZABLZN-MPC/Configuration.h
+-Process EZABLZN-MPC/Configuration_adv.h
+-Process EZABLZN-MPC/Version.h
+-Process EZABLZN-MPC/platformio.ini
+
+Configuration files correctly generated
